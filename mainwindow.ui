@@ -71,6 +71,11 @@
     </property>
     <item>
      <property name="text">
+      <string>Выберите шифр</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
       <string>ROT1</string>
      </property>
     </item>
@@ -89,6 +94,11 @@
       <string>Шифр Гронсфельда</string>
      </property>
     </item>
+    <item>
+     <property name="text">
+      <string>Шифр Виженера</string>
+     </property>
+    </item>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
@@ -100,7 +110,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24pt;&quot;&gt;ШИФРОВАЛЬНАЯ МАШИНА&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:24pt; color:#000000;&quot;&gt;ШИФРОВАЛЬНАЯ МАШИНА&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
